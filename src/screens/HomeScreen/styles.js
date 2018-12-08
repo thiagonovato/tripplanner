@@ -19,8 +19,8 @@ export default styles = StyleSheet.create({
         paddingBottom: 32
     },
     pin: {
-        marginTop: 16,
-        marginBottom: 16
+        marginTop: 10,
+        marginBottom: 10
     },
     arrow: {
         marginTop: 16
@@ -43,7 +43,7 @@ export default styles = StyleSheet.create({
     },
     buttonEmptyStateText: {
         textAlign: 'center',
-        fontSize: 18,
+        fontSize: 14,
         color: 'black',
         width: 220
     }
